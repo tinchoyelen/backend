@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Trumpeter",
+		"description": "Vino Malbec",
+		"price": 750,
+		"thumbnail": "sin imagen",
+		"code": 130,
+		"stock": 1,
+		"id": 1
+	},
+	{
+		"title": "Enemigo",
+		"description": "Vino Cabernet",
+		"price": 1550,
+		"thumbnail": "sin imagen",
+		"code": 130,
+		"stock": 1,
+		"id": 2
+	},
+	{
+		"title": "Saint Felicien",
+		"description": "Vino Syrah",
+		"price": 2550,
+		"thumbnail": "sin imagen",
+		"code": 130,
+		"stock": 1,
+		"id": 3
+	}
+]
